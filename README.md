@@ -20,7 +20,7 @@ TRIBE is a retail website for a fictional sportswear brand launched in 2007.The 
 ---
 
 ### Technologies Used
-**HTML5**: Website structure and content 
+**HTML5**: Website structure and content including all page structure, headings, paragraphs,lists, images and links 
 **GitHub Pages**: Hosting the live site
 
 ---

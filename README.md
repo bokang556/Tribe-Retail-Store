@@ -25,6 +25,12 @@ TRIBE is a retail website for a fictional sportswear brand launched in 2007.The 
 
 ---
 
+### Credits
+Majority of the HTML code are written by me for WEDE5020.Brand information based on the assignment case study partially taken from NIKE RETAIL ST0RE.
+Nike,2025.What is the vision and mission statement for Nike...[online]Available at:https://goggle.co.za/search?q=what...TF-8&hl=en.za&client=safari/[Accessed 31 March 2026]
+
+---
+
 ### How to Run This Project
 1.Download or clone this respository to your computer
 2.Double-click "home.html" to open the website in your browser

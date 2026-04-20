@@ -30,6 +30,6 @@ TRIBE is a retail website for a fictional sportswear brand launched in 2007.The 
 2.Double-click "home.html" to open the website in your browser
 
 OR 
-View the live site here:
+View the live site here:[https://github.com/bokang556/Tribe-Retail-Store.git]
 
 ### File Structure

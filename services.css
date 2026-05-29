@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background: #f5f5f5;
+}
+
+header, footer {
+    width: 100%;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 3% 2%;
+}
+
+ nav  {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    flex-wrap: wrap;
+    margin-top: 1%;
+ }
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 1% 2%;
+ }
+
+ nav a:hover {
+    color: #ff6600;
+ }
+
+ .services-card {
+    background: #fff;
+    padding: 5%;
+    border-radius: 8px;
+    text-align: center;
+ }
+
+.service-card img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen {
+   .services-grid {
+      grid-template-columns: 1fr;
+   }
+   nav {
+      flex-direction: column;
+      gap: 1%;
+   }
+}

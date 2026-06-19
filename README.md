@@ -23,6 +23,7 @@ TRIBE is a retail website for a fictional sportswear brand launched in 2007.The 
 **HTML5**: Website structure and content including all page structure, headings, paragraphs,lists, images and links 
 **GitHub Pages**: Hosting the live site
 **CSS3:** Styling with percentages, flexbox, grid, hover effects, and '@media (max-width: 768px)' for mobile responsiveness
+**Vanilla JavaScript ES6+**: DOM manipulation, event listeners
 
 ---
 
@@ -30,6 +31,7 @@ TRIBE is a retail website for a fictional sportswear brand launched in 2007.The 
 Majority of the HTML code are written by me for WEDE5020.Brand information based on the assignment case study partially taken from NIKE RETAIL ST0RE.
 Nike,2025.What is the vision and mission statement for Nike...[online]Available at:https://goggle.co.za/search?q=what...TF-8&hl=en.za&client=safari/[Accessed 31 March 2026]
 W3Schools, 2026. *CSS Media Queries*.[online] Available at https://www.w3schools.com/css_rwd_mediaqueries.asp [Accessed 29 May 2026]
+
 
 ---
 
